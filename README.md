@@ -180,7 +180,7 @@ If you use this work, please cite the original MesoNet paper and this repository
   title={MesoNet++: Advancements in shallow CNN-based deepfake detection},
   author={Sagar Kuntal , Rishav Kumar},
   year={2026},
-  url={https://github.com/sskuntal29/MesoNEt++}
+  url={https://github.com/sskuntal29/MesoNEt-Plus-Plus}
 }
 ---
 
